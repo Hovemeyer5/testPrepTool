@@ -1,0 +1,9 @@
+C:\Git\testPrepTool\testPrepTool\bin\Debug\netcoreapp1.1\testPrepTool.deps.json
+C:\Git\testPrepTool\testPrepTool\bin\Debug\netcoreapp1.1\testPrepTool.runtimeconfig.json
+C:\Git\testPrepTool\testPrepTool\bin\Debug\netcoreapp1.1\testPrepTool.runtimeconfig.dev.json
+C:\Git\testPrepTool\testPrepTool\obj\Debug\netcoreapp1.1\testPrepTool.AssemblyInfo.cs
+C:\Git\testPrepTool\testPrepTool\bin\Debug\netcoreapp1.1\testPrepTool.dll
+C:\Git\testPrepTool\testPrepTool\bin\Debug\netcoreapp1.1\testPrepTool.pdb
+C:\Git\testPrepTool\testPrepTool\obj\Debug\netcoreapp1.1\testPrepTool.dll
+C:\Git\testPrepTool\testPrepTool\obj\Debug\netcoreapp1.1\testPrepTool.pdb
+C:\Git\testPrepTool\testPrepTool\obj\Debug\netcoreapp1.1\testPrepTool.csprojResolveAssemblyReference.cache
